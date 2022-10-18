@@ -1,5 +1,5 @@
 - 👋 Hi, My name is Veronika
-- :computer:  I’m currently working as a PS Consultant (Java Engineer), Miratech company 
+- :computer:  I’m currently working as a PS Consultant/Java Engineer, Miratech company 
 - 👀 I’m interested in backend development, mobile development
 - 🌱 I’m currently learning: Multithreading
 - :books: Interesting fact: I've read more than 500 books 
